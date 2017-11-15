@@ -1,0 +1,4 @@
+{
+	"Tracks" : ['won', 'lost'],
+	"Source" : ['website', 'referral', 'ads']
+}
